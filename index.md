@@ -1,4 +1,4 @@
-**Добро пожаловать**
+<p style="text-align: center;">**Добро пожаловать!**</p>
 
 <details>
     <summary>Спойлер</summary>
